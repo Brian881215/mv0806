@@ -5,6 +5,7 @@ public class Product {
 	private String price;
 	private int quantity;
 	private String description;
+	//add a comment for testing github information
 	public Product(String code, String price, int quantity, String description) {
 		super();
 		this.code = code;
